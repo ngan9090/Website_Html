@@ -1,0 +1,134 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+    body {
+        margin: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+      }
+      
+      .topnav {
+        overflow: hidden;
+        background-color: #434248;
+        display:block;
+      }
+      
+      .topnav a {
+        float: right;
+        color: white;
+        text-align: center;
+        padding: 14px 14px;
+        text-decoration: none;
+        font-size: 13px;
+      }
+      
+      .topnav a:hover {
+        background-color: #0047b3;
+        color: white;
+        font-weight: bold;
+        height:45px;
+      }
+      
+      .topnav a.active {
+        background-color: #04AA6D;
+        color: white;
+      }
+      
+      .top{
+       float:left;
+       width: 220px;
+       height:45px;
+      }
+    
+      .distance{
+        height:40px;
+      }
+    
+      .top-img{
+        width:100%;
+      }
+    
+      .div-second{
+        position: relative;
+      }
+    
+      .div-second-child{
+        position: absolute;
+        top: 80px;
+        left: 46px;
+        color: white;
+      }
+    
+      .big-text{
+        font-size: 32px;
+      }
+    
+      .next{
+        margin-top: -35px;
+      }
+    
+      .content{
+        margin-top: -15px;
+        background-color:#e4e4e4;
+      }
+    
+      .content-title{
+        font-size: 35px;
+        color: black;
+      }
+    
+      .content-all{
+        margin-left: 50px;
+      }
+    
+      .detail{
+        margin-top: -25px;
+        color: grey;
+      }
+      .content-image{
+        height: 720px;
+      }
+    
+      .content-image-child{
+        float: left;
+        width: 310px;
+        height: 360px;
+        margin-left:50px;
+      }
+    
+      .image-col{
+        margin-bottom: 30px;
+    
+      }
+      .content-img{
+        width:100%;
+      }
+    
+      .footer{
+        height:490px;
+        background-color: #f0f0f0;
+        padding-left: 50px;
+        margin-bottom: 10px;
+      }
+    
+      .footer-content{
+        margin-top:50px;
+        float: left;
+        width: 100%;
+        font-size: 13px;
+        padding-right: 34px;
+      }
+      
+      .footer-title{
+        color: black;
+      }
+    
+      .footer-detail{
+        color: gray;
+      }
+    
+    }
+      
+    
+    
+      
+      
+      
